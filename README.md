@@ -2,6 +2,7 @@
 Mini Proyecto. Desarrollado para la Universidad de San Andres (UDESA) - Se demuestra como podemos acceder a una API, valiendonos de FETCH y luego como podemos persistir en el Browser del usuario las películas favortitas agregandolas a su lista y luego como sacarlas de la misma.
 
 <br>
+https://danielfuentes.github.io/api-fetch-localstorage/index.html
 <hr>
 <br>
 <h1>Curso: Desarrollo web con JavaScript ES-6 </h1>
